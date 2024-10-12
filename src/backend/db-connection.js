@@ -1,7 +1,8 @@
+require('dotenv').config()
 const { MongoClient, ObjectId } = require('mongodb')
 const { ipcMain } = require('electron')
 
-const uri = 'mongodb://127.0.0.1:27017/?directConnection=true'
+const uri = process.env.MONGODB_URI
 const databaseName = 'CashPlash_Pro'
 
 let dbConnection;
