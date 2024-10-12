@@ -2,8 +2,9 @@
 
 ![CashPlash_Pro](https://socialify.git.ci/MelchorRuiz/CashPlash_Pro/image?description=1&language=1&name=1&owner=1&theme=Auto)
 
-Proyecto CashPlash_Pro, elaborado en la Universidad Tecnologica de León durante mis estudios en TSU Desarrallo de Software Multiplataforma
+El Proyecto CashPlah_Pro es una solución integral diseñada para facilitar la administración de pequeños y medianos negocios. Esta aplicación de escritorio permite a los usuarios gestionar de manera eficiente el inventario de la tienda, realizar ventas y gestionar usuarios con acceso a la plataforma. Su interfaz intuitiva y flexible permite una personalización adaptada a las necesidades específicas de cada comercio.
 
+Una de las características más destacadas de esta aplicación es su capacidad de personalización. Los usuarios pueden agregar nuevos módulos al sistema a través de una interfaz dedicada, permitiendo la adaptación de la aplicación a las necesidades específicas de cada negocio.
 
 ## ✨ Demo
 
@@ -50,6 +51,8 @@ Inicia la aplicación
 
 ## 🖼️ Screenshots
 
-<img src="./screenshots/img_1.png" style="height: 50%; width:50%;">
-<img src="./screenshots/img_2.png" style="height: 50%; width:50%;">
-<img src="./screenshots/img_3.png" style="height: 50%; width:50%;">
+| ![screenshot 1](./screenshots/img_1.png) | ![screenshot 2](./screenshots/img_2.png) |
+| --- | --- |
+| ![screenshot 3](./screenshots/img_3.png) |  |
+
+Proyecto CashPlash_Pro, elaborado en la Universidad Tecnologica de León durante mis estudios en TSU Desarrallo de Software Multiplataforma
