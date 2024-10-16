@@ -55,4 +55,4 @@ Inicia la aplicación
 | --- | --- |
 | ![screenshot 3](./screenshots/img_3.png) |  |
 
-Proyecto CashPlash_Pro, elaborado en la Universidad Tecnologica de León durante mis estudios en TSU Desarrallo de Software Multiplataforma
+Proyecto CashPlash_Pro, elaborado en la Universidad Tecnológica de León durante mis estudios en TSU Desarrollo de Software Multiplataforma
